@@ -1,0 +1,5 @@
+[project]
+name = "fixedflow"
+version = "0.1.0"
+description = "Fixed income analytics library"
+requires-python = ">=3.11"
